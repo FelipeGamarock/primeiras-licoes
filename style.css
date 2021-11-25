@@ -15,3 +15,7 @@ header {
   text-align: center;
   
 }
+#tabela tr th {
+  border: 2px solid rgb(66, 62, 62) ;
+  width: 100px;
+}
