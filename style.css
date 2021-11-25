@@ -36,4 +36,15 @@ p {
 li {
   font-size: 16px;
   color: rgb(5, 54, 54);
+
+}
+.lado-esquerdo, .lado-direito {
+  display: inline-block;
+ 
+}
+.lado-esquerdo {
+  width: 70%;
+}
+.lado-direito {
+  width: 25%;
 }
