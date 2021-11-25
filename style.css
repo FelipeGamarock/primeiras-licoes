@@ -3,19 +3,37 @@ body {
 }
 header {
   position: fixed;
-  background-color: green;
+  background-color: rgb(37, 202, 120);
   text-align: center; 
   max-width: 100%;
   top: 0%;
 }
 #minha_foto {
   width: 300px;
+  border: 2px solid black;
+  border-radius: 100%;
+  margin-top: 100px;
 }
 #rodape {
   text-align: center;
-  
+  margin: 10px;
+  padding: 20px;
+  background-color: rgb(180, 180, 211);
+  max-width: 100%;
+
 }
 table tr th {
   border: 2px solid rgb(66, 62, 62) ;
   width: 100px;
+}
+#lista1, #lista2 {
+  display: inline-block;
+}
+p {
+ font-family: sans-serif;
+ line-height: 125%;
+}
+li {
+  font-size: 16px;
+  color: rgb(5, 54, 54);
 }
