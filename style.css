@@ -1,53 +1,62 @@
 body {
   background-color: rgb(253, 251, 251);
 }
+
 header {
   position: fixed;
   background-color: rgb(37, 202, 120);
-  text-align: center; 
+  text-align: center;
   max-width: 100%;
   top: 0%;
 }
+
 #minha_foto {
   width: 300px;
   border: 2px solid black;
   border-radius: 100%;
   margin-top: 100px;
 }
+
 #rodape {
   text-align: center;
   margin: 10px;
   padding: 20px;
   background-color: rgb(180, 180, 211);
   max-width: 100%;
-
 }
+
 table, tr, td, th {
-  border: 2px solid rgb(66, 62, 62) ;
+  border: 2px solid rgb(66, 62, 62);
   width: 200px;
 }
+
 #lista1, #lista2 {
   display: inline-block;
 }
+
 p {
- font-family: sans-serif;
- line-height: 125%;
+  font-family: sans-serif;
+  line-height: 125%;
 }
+
 li {
   font-size: 16px;
   color: rgb(5, 54, 54);
 
 }
+
 .lado-esquerdo, .lado-direito {
   display: inline-block;
- 
 }
+
 .lado-esquerdo {
   width: 70%;
 }
+
 .lado-direito {
   width: 25%;
 }
+
 a {
   padding: 10px;
   text-decoration: none;
