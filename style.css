@@ -25,12 +25,12 @@ header {
   max-width: 100%;
 }
 
-table, tr, td, th {
+table , tr , td , th {
   border: 2px solid rgb(66, 62, 62);
   width: 200px;
 }
 
-#lista1, #lista2 {
+#lista1 , #lista2 {
   display: inline-block;
 }
 
@@ -45,7 +45,7 @@ li {
 
 }
 
-.lado-esquerdo, .lado-direito {
+.lado-esquerdo , .lado-direito {
   display: inline-block;
 }
 
@@ -61,5 +61,5 @@ a {
   padding: 10px;
   text-decoration: none;
   background-color: rgb(90, 207, 207);
-  color: rgb(0, 0, 0);
+  color: black;
 }
